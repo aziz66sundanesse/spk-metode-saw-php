@@ -44,7 +44,7 @@ table {
     </style>
     <div id="header">
         <h4>Sistem Pendukung Keputusan Pemilihan Supplier</h4>
-        <h2>CV. BIMANTARA</h2>
+        <h2>PT. Mahkota Inti Persada</h2>
     </div>
     <div id="judul" class="text-center">
         <p class="text-underline">Hasil Perhitungan</p>
